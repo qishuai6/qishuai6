@@ -27,7 +27,6 @@
 - [caifu-mentor](https://github.com/qishuai6/caifu-mentor) —— 把李笑来《财富自由之路》固化成一个随叫随到的 AI 校对技能
 - [feishu-crosspost](https://github.com/qishuai6/feishu-crosspost) ⭐3 —— 在飞书发一条消息，自动同步发布到微博 / 即刻 / 豆瓣
 - [zcode-gauge](https://github.com/qishuai6/zcode-gauge) ⭐1 —— macOS 菜单栏实时查看 ZCode 额度
-- [gzhtool](https://github.com/qishuai6/gzhtool) ⭐1 —— 公众号自动排版工具
 - [qishuai-writing](https://github.com/qishuai6/qishuai-writing) —— 我的四合一写作技能：书稿整理 / 公众号写稿 / 口播稿 / 文章体检
 
 ## 找到我
@@ -42,4 +41,4 @@
 
 ## 更新日志
 
-- 2026-10-21 首次创建主页 README；同日调整：履历改为「前大厂员工，现某国企员工」，移除写书条目。
+- 2026-10-21 首次创建主页 README；同日调整：履历改为「前大厂员工，现某国企员工」，移除写书条目，移除 gzhtool 条目。
