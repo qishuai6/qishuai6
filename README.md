@@ -24,7 +24,7 @@
 | **[成长邮局](https://stamp.qishuai.vip)** | 把孩子的画和话寄成一张张明信片（iOS） |
 | **[灵知](https://lingzhi.qishuai.vip)** | macOS 本地知识库，文档拖进去直接问 |
 | **[秒览 Glance](https://github.com/qishuai6/glance)** | macOS 空格键预览 30+ 种文件，md / zip / json / 代码都能高亮 |
-| **几点走** | iOS 通勤 App：按实时路况告诉你几点出发（高德分段路况 + 历史曲线） |
+| **[几点走](https://map.qishuai.vip)** | iOS 通勤 App：不用打开地图，也知道今天最晚几点出门 |
 
 ### 我在写
 
